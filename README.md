@@ -1,11 +1,11 @@
-# label_GUI – Web-based Annotation System for Uroflowmetry Curves
+# Label_GUI – Web-based Annotation System for Uroflowmetry Curves
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 ![Built with Django](https://img.shields.io/badge/Built%20with-Django-blue.svg)
 
 ## 🚀 Overview
 
-**label_GUI** is a web-based graphical user interface for visualizing and annotating uroflowmetry curves. It is designed for researchers and clinicians to classify urine flow rate profiles into six medically relevant categories. The system supports interactive labeling, data storage, and export, and serves as a foundational tool for developing machine learning models.
+**Label_GUI** is a web-based graphical user interface for visualizing and annotating uroflowmetry curves. It is designed for researchers and clinicians to classify urine flow rate profiles into six medically relevant categories. The system supports interactive labeling, data storage, and export, and serves as a foundational tool for developing machine learning models.
 
 ## 🧩 Features
 
