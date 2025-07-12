@@ -7,7 +7,7 @@
 
 **Label_GUI** is a web-based graphical user interface for visualizing and annotating uroflowmetry curves. It is designed for researchers and clinicians to classify urine flow rate profiles into six medically relevant categories. The system supports interactive labeling, data storage, and export, and serves as a foundational tool for developing machine learning models.
 
-<img width="1722" height="846" alt="Bildschirmfoto 2025-07-12 um 14 22 21" src="https://github.com/user-attachments/assets/4cbe6595-8125-4a60-8544-d367d525c250" />
+<img width="1721" height="996" alt="Bildschirmfoto 2025-07-12 um 14 25 20" src="https://github.com/user-attachments/assets/8ded92c4-c589-4577-b52b-70c99060162a" />
 
 Gastaccount: Tom
 Passwort: 123456
